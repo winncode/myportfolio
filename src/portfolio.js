@@ -619,7 +619,7 @@ const projects = {
       id: "project-0",
       name: "Go4Explore",
       website: "https://go4explore.com",
-      app: "",
+      app: "https://play.google.com/store/apps/details?id=com.go4explore",
       description:
         "Go4Explore is a community of avid travellers badly bitten by the travel bug who curate fun-filled community trips as per your interest and comfort. •Road trips - Sometimes the most scenic roads in life are the detours you didn't mean to take. We organize short and long weekend road trips from Delhi with like-minded people. •Himalayan treks - Walk on trails, camp under million stars, chill beside warm bonfire and gather memories on our well curated treks. •Travel meets - We love meeting new people and share mindblowing travel stories. Travel meetups packed with fun and knowledge sessions by skilled-travellers.",
       languages: [
