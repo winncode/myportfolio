@@ -60,7 +60,7 @@ export default function Greeting(props) {
                   }}
                 />
               </div>
-              <div className="portfolio-repo-btn-div">
+              {/* <div className="portfolio-repo-btn-div">
                 <a
                   {...styles}
                   className="button"
@@ -70,7 +70,7 @@ export default function Greeting(props) {
                 >
                   Resume
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="greeting-image-div">
